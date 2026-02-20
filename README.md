@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Olá 👋 Eu sou o Breno Brito</h1>
 
-<!--
-**zukari1/zukari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor em formação | 🎓 ADS | 🚀 Em busca de estágio em TI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 Hoje estou cursando ADS
-- 🌱 Estudando Sql
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Britobreno25801@gmail.com
-- 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em evolução constante na área de tecnologia.  
+Tenho base sólida em **Python, lógica de programação e estruturas de dados** e estou construindo projetos para fortalecer meu portfólio.
+
+🎯 Objetivo atual: conquistar minha primeira oportunidade como estagiário em TI.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Objetivos para 2026
+
+- 🚀 Conseguir estágio em TI  
+- 📂 Construir projetos reais para portfólio  
+- 🗄️ Aprender SQL e Banco de Dados  
+- 🌐 Desenvolver APIs REST  
+- 📚 Evoluir todos os dias  
+
+---
+
+## 📫 Contato
+
+- 🔗 LinkedIn: (https://www.linkedin.com/in/breno-brito-82b048293/)
+- 📧 Email: britobreno25801@gmail.com
+
+---
+
+<p align="center">
+  ⚡ "Disciplina supera motivação."
+</p>
