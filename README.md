@@ -24,17 +24,7 @@ Tenho base sólida em **Python, lógica de programação e estruturas de dados**
   <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge"/>
 </p>
-
----
-
-## 📈 Objetivos para 2026
-
-- 🚀 Conseguir estágio em TI  
-- 📂 Construir projetos reais para portfólio  
-- 🗄️ Aprender SQL e Banco de Dados  
-- 🌐 Desenvolver APIs REST  
-- 📚 Evoluir todos os dias  
-
+  
 ---
 
 ## 📫 Contato
