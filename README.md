@@ -11,8 +11,6 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em evolução constante na área de tecnologia.  
 Tenho base sólida em **Python, lógica de programação e estruturas de dados** e estou construindo projetos para fortalecer meu portfólio.
 
-🎯 Objetivo atual: conquistar minha primeira oportunidade como estagiário em TI.
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -33,7 +31,4 @@ Tenho base sólida em **Python, lógica de programação e estruturas de dados**
 - 📧 Email: britobreno25801@gmail.com
 
 ---
-
-<p align="center">
-  ⚡ "Disciplina supera motivação."
 </p>
